@@ -152,7 +152,7 @@ footer {
 
 .form-section button {
     padding: 10px;
-    background-color: #28a745;
+    background-color: #ff0000;
     color: white;
     border: none;
     border-radius: 5px;
@@ -160,7 +160,7 @@ footer {
 }
 
 .form-section button:hover {
-    background-color: #218838;
+    background-color: #3f0000;
 }
 
 .form-section p {
