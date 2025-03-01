@@ -115,7 +115,7 @@ nav ul li a:hover::after {
 }
 
 .menu-info {
-    max-width: 600px;
+    max-width: 100px;
 }
 
 .menu-info h3 {
