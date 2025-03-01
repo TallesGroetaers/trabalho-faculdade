@@ -125,7 +125,7 @@ nav ul li a:hover::after {
 
 .menu-info p {
     color: #555;
-    margin-bottom: 5px;
+    margin-bottom: 0px;
 }
 
 .menu-info strong {
